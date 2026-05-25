@@ -1,0 +1,6 @@
+{
+  "name": "TaskSphere",
+  "description": "A minimalist Kanban-style task manager designed for students and professionals seeking deep focus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
